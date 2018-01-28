@@ -155,12 +155,14 @@ webpackJsonp([0], [function(t, i, n) {
             })
 			*/
         }
-        var n = "http://misc.xl9.xunlei.com/res/data/config.json";
+        /*
+		var n = "http://misc.xl9.xunlei.com/res/data/config.json";
         t().then(function(t) {
             t && t.download_link && i("download_link", t.download_link).then(function(t) {
                 t && t.xl9_download && o(".JS-btn-download").attr("href", t.xl9_download.link)
             })
         })
+		*/
     }
     var o = (n(1), n(2));
     n(3),
